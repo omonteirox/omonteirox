@@ -18,7 +18,7 @@ const sobreMim = {
       databases: ["mySQL", "SQLServer"],
       mobile: ["Native Android","Flutter"]
    },
-   ocupaçãoAtual: ["Último semestre de sistemas de informação e buscando novas oportunidades!"],
+   ocupaçãoAtual: ["Analista de Sistemas em NovaXS", "Último semestre de sistemas de informação"],
 };
 ```
 </br></br>
