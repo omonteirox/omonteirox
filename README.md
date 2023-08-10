@@ -5,7 +5,7 @@
 ```javascript
 const sobreMim = {
    pronouns: "Ele" | "Dele",
-   code: [Javascript, Typescript, HTML, CSS, Java, Dart, C#],
+   code: ["Javascript", "Typescript", "HTML", "CSS", "Java", "Dart", "C#"],
    technologies: {
       frontEnd: {
          js: ["JQuery", "Angular"],
@@ -18,8 +18,7 @@ const sobreMim = {
       databases: ["mySQL", "SQLServer"],
       mobile: ["Native Android","Flutter"]
    },
-   ocupaçãoAtual: ["Penúltimo semestre e buscando novas oportunidades!"],
-   desafio: "Trabalhando para cada vez mais resolver os problemas com qualidade",
+   ocupaçãoAtual: ["Último semestre de sistemas de informação e buscando novas oportunidades!"],
 };
 ```
 </br></br>
