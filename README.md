@@ -1,6 +1,3 @@
-<img src="https://github.com/omonteirox/omonteirox/blob/main/omonteirox.svg"/>
-
-
 <p><em>Bacharelando em Sistemas de Informação pelo <a href="https://ifgoiano.edu.br/home/index.php/urutai.html">IFGoiano Campus Urutaí</a></br>
 </em></p>
 
