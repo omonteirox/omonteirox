@@ -8,7 +8,7 @@
 ```javascript
 const sobreMim = {
    pronouns: "Ele" | "Dele",
-   code: [Javascript, Typescript, HTML, CSS, Java, Dart],
+   code: [Javascript, Typescript, HTML, CSS, Java, Dart, C#],
    technologies: {
       frontEnd: {
          js: ["JQuery", "Angular"],
@@ -16,12 +16,12 @@ const sobreMim = {
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node", "Express"]
+         C#: ["C#", ".NET"]
       },
       databases: ["mySQL", "SQLServer"],
-      mobile: ["Android Nativo com Java","Flutter"]
+      mobile: ["Native Android","Flutter"]
    },
-   ocupaçãoAtual: ["Penúltimo semestre e farejando novas oportunidades!"],
+   ocupaçãoAtual: ["Penúltimo semestre e buscando novas oportunidades!"],
    desafio: "Trabalhando para cada vez mais resolver os problemas com qualidade",
 };
 ```
