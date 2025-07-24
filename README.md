@@ -4,8 +4,7 @@
 
 ```javascript
 const sobreMim = {
-   pronouns: "Ele" | "Dele",
-   code: ["Javascript", "Typescript", "HTML", "CSS", "Java", "Dart", "C#"],
+   code: [""HTML", "CSS", "Java", "Dart", "C#"],
    technologies: {
       frontEnd: {
          js: ["JQuery", "Angular"],
@@ -13,9 +12,9 @@ const sobreMim = {
       },
       backEnd: {
          java: ["Spring"],
-         C#: ["C#", ".NET"]
+         C#: ["C#", ".NET", "NHibernate"]
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: ["mySQL", "SQLServer", "PostgresSql"],
       mobile: ["Native Android","Flutter"]
    },
    ocupaçãoAtual: ["Desenvolvedor de software Back-end at TimeShare Soluções", "Último semestre de sistemas de informação"],
